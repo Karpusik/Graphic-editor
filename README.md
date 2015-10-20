@@ -1,7 +1,3 @@
 # Graphic-editor
 
-[![Build status](https://ci.appveyor.com/api/projects/status/github/Equu5/Web-Browser)](https://ci.appveyor.com/project/Equu5/web-browser-m3da4)
-
-
-
-
+[![Build status](https://ci.appveyor.com/api/projects/status/github/Karpusik/graphic-editor)](https://ci.appveyor.com/project/Karpusik/graphic-editor/build/1.0.4)
