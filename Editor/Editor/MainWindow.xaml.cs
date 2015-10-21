@@ -23,6 +23,7 @@ namespace Editor
         public MainWindow()
         {
             this.InitializeComponent();
+
         }
     }
 }
